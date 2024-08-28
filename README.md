@@ -8,7 +8,6 @@
 
 ---
 
-### 🛠️ Technologies & Tools
 
 ### 🛠️ Technologies & Tools
 
