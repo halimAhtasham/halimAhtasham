@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ahtasham Halim
 
 - 👀 I’m interested in web development, DSA, and open-source projects.
-- 🌱 I’m currently learning Java to develop my coding journey.
+- 🌱 I’m currently learning Java to develop my coding skills.
 - 📫 How to reach me: Email: ahtashamhalim@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and reading historical books and vlogs.
