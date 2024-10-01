@@ -4,7 +4,7 @@
 
 
 
-# 👀 I’m interested in web development, DSA, Problem Solving and open-source projects.<br>- 🌱 I’m currently learning Java to develop my coding skills.<br>- 📫 How to reach me: Email: ahtashamhalim@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love playing chess and reading historical books and vlogs.
+#- 👀 I’m interested in web development, DSA, Problem Solving and open-source projects.<br>- 🌱 I’m currently learning Java to develop my coding skills.<br>- 📫 How to reach me: Email: ahtashamhalim@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love playing chess and reading historical books and vlogs.
 
 
 # 💻 Tech Stack:
