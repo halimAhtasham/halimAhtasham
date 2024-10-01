@@ -13,8 +13,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false)
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&bg_color=0d1117&title_color=00aaff&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
+
 
 
 
