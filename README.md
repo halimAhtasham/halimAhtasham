@@ -1,5 +1,10 @@
-# 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=4998&pause=1000&color=813FF7&background=41414100&width=450&lines=Hi+There!;I'm+Ahtasham+Halim+Rifat)](https://git.io/typing-svg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=900&size=40&color=813FF7&background=41414100&width=450&lines=Hi+There!;I'm+Ahtasham+Halim+Rifat" />
+</h1>
+
+
 # Hi there 👋, I'm Ahtasham Halim<br><br>- 👀 I’m interested in web development, DSA, Problem Solving and open-source projects.<br>- 🌱 I’m currently learning Java to develop my coding skills.<br>- 📫 How to reach me: Email: ahtashamhalim@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love playing chess and reading historical books and vlogs.
 
 
