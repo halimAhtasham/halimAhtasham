@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=900&size=40&color=813FF7&background=41414100&width=450&lines=Hi+There!;I'm+Ahtasham+Halim+Rifat" />
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=900&size=40&color=813FF7&background=41414100&width=450&lines=Hi+There!;I'm+Ahtasham+Halim+Rifat" alt="Typing animation with the text Hi There! I'm Ahtasham Halim Rifat" />
 </h1>
+
 
 
 # Hi there 👋, I'm Ahtasham Halim<br><br>- 👀 I’m interested in web development, DSA, Problem Solving and open-source projects.<br>- 🌱 I’m currently learning Java to develop my coding skills.<br>- 📫 How to reach me: Email: ahtashamhalim@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love playing chess and reading historical books and vlogs.
