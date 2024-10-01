@@ -12,7 +12,10 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=blueberry&bg_color=0d1117&title_color=00aaff&text_color=ffffff&icon_color=00aaff)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&bg_color=0d1117&title_color=00aaff&text_color=ffffff&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
 
 
 ---
