@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=900&size=40&color=813FF7&background=41414100&width=450&lines=Hi+There!;I'm+Ahtasham+Halim+Rifat" alt="Typing animation with the text Hi There! I'm Ahtasham Halim Rifat" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=813FF7&background=41414100&width=450&lines=Hi+there+%F0%9F%91%8B;I'm+Ahtasham+Halim+Rifat" alt="Typing SVG" /></a>
 </h1>
 
 
