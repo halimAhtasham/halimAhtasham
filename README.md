@@ -1,10 +1,10 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=813FF7&background=41414100&width=450&lines=Hi+there+%F0%9F%91%8B;I'm+Ahtasham+Halim+Rifat" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=813FF7&background=41414100&width=450&lines=Hi+there+%F0%9F%91%8B;I'm+Ahtasham+Halim+Rifat" alt="Typing SVG" /></a>
 </h1>
 
 
 
-# Hi there 👋, I'm Ahtasham Halim<br><br>- 👀 I’m interested in web development, DSA, Problem Solving and open-source projects.<br>- 🌱 I’m currently learning Java to develop my coding skills.<br>- 📫 How to reach me: Email: ahtashamhalim@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love playing chess and reading historical books and vlogs.
+# 👀 I’m interested in web development, DSA, Problem Solving and open-source projects.<br>- 🌱 I’m currently learning Java to develop my coding skills.<br>- 📫 How to reach me: Email: ahtashamhalim@gmail.com<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I love playing chess and reading historical books and vlogs.
 
 
 # 💻 Tech Stack:
