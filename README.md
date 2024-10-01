@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=900&size=40&color=813FF7&background=41414100&width=450&lines=Hi+There!;I'm+Ahtasham+Halim+Rifat" />
 </h1>
