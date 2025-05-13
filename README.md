@@ -29,27 +29,29 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+<!--  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false) -->
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false" />
     </td>
   </tr>
 </table>
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&theme=blueberry&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
 </div>
 
+
+
+
 ---
-
-## 📈 Visitor Count
-
 [![](https://visitcount.itsvg.in/api?id=halimahtasham&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created using GPRM: https://gprm.itsvg.in -->
