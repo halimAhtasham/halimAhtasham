@@ -20,7 +20,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
     </td>
     <td>
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=halimAhtasham&theme=transparent" alt="GitHub Streak" /></a>
+        [![GitHub Streak](https://streak-stats.demolab.com?user=halimAhtasham&theme=transparent)](https://git.io/streak-stats)
 <!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false" /> -->
     </td>
   </tr>
