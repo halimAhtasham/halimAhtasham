@@ -28,6 +28,13 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=halimAhtasham&theme=react-dark&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF" />
+</p>
+
+---
 
 # 📊 GitHub Stats:
 <!--  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false) -->
