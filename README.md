@@ -54,17 +54,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
 </div> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&count_private=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=halimahtasham)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&theme=blueberry&layout=compact)
-
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=halimahtasham&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Created using GPRM: https://gprm.itsvg.in -->
