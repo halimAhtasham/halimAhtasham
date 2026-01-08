@@ -39,7 +39,7 @@
 # 📊 GitHub Stats:
 <!--  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false) -->
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
@@ -53,7 +53,13 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
-</div>
+</div> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=halimahtasham&theme=dark&hide_border=false&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=halimahtasham&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halimahtasham&theme=blueberry&layout=compact)
+
 
 
 
